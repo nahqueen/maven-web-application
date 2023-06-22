@@ -97,14 +97,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://23.22.122.207:8081/repository/maven-web-application-release/</url>
+	      <name>nahqueen Releases Nexus Repository</name>
+	      <url>http://3.92.221.36:8081/repository/maven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://23.22.122.207:8081/repository/maven-web-application-snapshot/</url>
+	      <name>nahqueen Snapshot Nexus Repository </name>
+	      <url>http://3.92.221.36:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
